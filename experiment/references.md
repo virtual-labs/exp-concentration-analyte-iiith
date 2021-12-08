@@ -5,5 +5,5 @@
 5. J. R. Lakowicz, Principles of Fluorescence Spectroscopy, 2nd Ed., Kluwer Academic/Plenum Publishers, New York, London, Moscow, Dordrecht, 1999.  
 6. D. M. Jameson et al. in Basic Concepts in Fluorescence, Fluorescence: Basic Concepts, Principles Aspects and some Anecdotes, Methods Enzymol. 2003, 360, 1.  
 7. P. Atkins and J. D. Paula, Atkin's Physical Chemistry, 9th Edition, Oxford University Press.  
-8. [fluorescence](http://www.kutztown.edu/acad/chem/instruments_html/fluorescence.htm)
+
 
