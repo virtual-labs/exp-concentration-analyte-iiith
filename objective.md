@@ -1,0 +1,1 @@
+- To understand the relationship between the fluorescence intensity and the concentration of a fluorophore analyte and to determine the unknown concentration of the analyte by using the relationship.
